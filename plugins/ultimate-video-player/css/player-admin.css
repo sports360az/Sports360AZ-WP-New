@@ -1,0 +1,101 @@
+#videoplayer-admin .actions-holder {
+    padding: 10px;
+}
+#videoplayer-admin .submit {
+    clear: both;
+	text-align: left;
+	max-width: 100%;
+	margin-top: 5px;
+	margin-left: 10px;
+	padding-top: 5px;
+}
+#videoplayer-admin .float-left {
+    float:left;
+}
+#videoplayer-admin .float-right {
+    float:right;
+}
+#videoplayer-admin .column-left {
+    position: relative;
+    float: left;
+	width:50%;
+}
+#videoplayer-admin .column-right {
+    position: relative;
+	width:50%;
+    float: right;
+}
+#videoplayer-admin .back-to-list-link {
+    text-decoration: none;
+    margin-top: 11px;
+    display: block;
+    width: 180px;
+}
+.settings-title{
+	/* color:#ff0000; */
+	
+}
+#videoplayer-admin #add-new-video-button {
+    margin-bottom:10px;
+    margin-top:10px;
+}
+#videoplayer-admin #video-section-count {
+    color:#2ea2cc; 
+	/* color: #D33737; */
+	font-size: 15px;
+	font-weight: bold;
+}
+#videoplayer-admin #sortable-title {
+    color:#2ea2cc; 
+	/* color: #D33737; */
+	font-size: 15px;
+	font-weight: bold;
+}
+#videoplayer-admin .deletediv {
+	margin-left:30px
+}
+#videoplayer-admin .button80 {
+    min-width: 80px;
+    text-align: center;
+}
+
+#videoplayer-admin .video{
+	margin-bottom:20px;
+}
+#videoplayer-admin .sep {
+	border: 0;
+	/* border-top: 1px solid #E5E5E5; 
+	border-bottom: 1px solid #FFF;  */
+	border-top: 1px solid #79CFFF;
+	border-bottom: 1px solid #FFFFFF; 
+	margin: 10px 0 15px 0;
+	padding: 0;
+	height: 0;
+}
+
+#videoplayer-admin .widget-top, .postbox {
+    margin-right: 10px;
+	/* background: #F6F6F6; 
+	border: 1px solid rgb(214, 214, 214);  */
+	 background: #CAECFF;
+	border: 1px solid rgb(255, 255, 255); 
+}
+#videoplayer-admin .widget-top, .postbox .inside{
+    margin-bottom: 30px;
+}
+#videoplayer-admin a.button-primary {
+    color:#FFF !important;
+}
+#videoplayer-admin .field-row {
+    clear: both;
+    margin-bottom: 10px;
+    height: 20px;
+    position: relative;
+}
+#videoplayer-admin .hidden {
+    display:none !important;
+}
+
+#videoplayer-admin .videoplayers-table tr {
+    height:45px;
+}

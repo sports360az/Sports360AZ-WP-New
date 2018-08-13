@@ -1,0 +1,13 @@
+.vc_video_overlay {
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	pointer-events: none;
+	background-repeat: repeat;
+	z-index: 0;
+}
+.vc_video_bg.frontend_editor_active {
+	opacity: 1 !important;
+}
